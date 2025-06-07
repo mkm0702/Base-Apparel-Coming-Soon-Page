@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github - @mkm0702](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github - @mkm0702](https://github.com/mkm0702/Base-Apparel-Coming-Soon-Page)
+- Live Site URL: [Netlify](https://base-apparel-coming-soon-page-sol.netlify.app/)
 
 
 ### Built with
